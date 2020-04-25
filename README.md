@@ -15,7 +15,7 @@
 > 사용 방법 : pycode [문제 번호]
 
 ## 간단하게 만들어보기
-맥이나 우분투 사용자의 경우 alias를 통해 간단하게 간단하게 설정해 놓을 수 있다.
+맥이나 우분투 사용자의 경우 alias를 통해 간단하게 간단하게 설정해 놓을 수 있다. 윈도우는 환경 변수 설정을 통해서 할 수 있을 것 같긴한데, 안해봐서 잘 모르겠다...
 
 > alias crawling="python $HOME/dev/script/crawling_baekjoon.py"
 
